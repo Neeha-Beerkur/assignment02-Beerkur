@@ -6,12 +6,12 @@
  --- 
 
 ### Ordered and Unordered list
- # Dallas Cowboys #
+ ### Dallas Cowboys ###
  1. Elliott
  2. Prescott
  3. Gallup
  
- ## other teams that i think would be good to watch play
+ ### other teams that i think would be good to watch play
  * kansas city chiefs
  * San Francisco 49ers
  * Buffalo Bills
