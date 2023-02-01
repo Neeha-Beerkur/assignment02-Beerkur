@@ -18,4 +18,13 @@
 
  [Added link](ABOUTME.md)
 
- 
+ ---
+
+ # Creating a Table
+ I would recommend people to visit India, United states, UAE, Maldives. These countries where we can afford for tours with family.
+ | Name of the country | Reason to Recommand | Days of spending |
+ | --- | --- | ---|
+ | India | In India we can see historical significance in the entire world | 30days |
+ | United states | It has most beautiful and unique national parks | 60days |
+ | UAE | We can visit for largest building in the world called Burj khalifa | 10days |
+ | Maldives | we can take part in several adventerous activities | 20days |
