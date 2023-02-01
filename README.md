@@ -28,3 +28,10 @@
  | United states | It has most beautiful and unique national parks | 60days |
  | UAE | We can visit for largest building in the world called Burj khalifa | 10days |
  | Maldives | we can take part in several adventerous activities | 20days |
+
+ ---
+
+ # Pithy Quotes
+ >I think that God, in creating man, somewhat overestimated his ability.   -*Oscar wilde*
+
+ >I went for years not finishing anything. Because, of course, when you finish something you can be judged.   -*Stephen king*
