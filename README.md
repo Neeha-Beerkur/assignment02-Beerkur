@@ -35,3 +35,20 @@
  >I think that God, in creating man, somewhat overestimated his ability.   -*Oscar wilde*
 
  >I went for years not finishing anything. Because, of course, when you finish something you can be judged.   -*Stephen king*
+
+ ---
+
+ # Code Fencing
+
+ # > How to get the WordPress post thumbnail (featured image) URL?
+
+ Quick link <https://stackoverflow.com/questions/11261883/how-to-get-the-wordpress-post-thumbnail-featured-image-url/>
+
+ ```
+
+ add_theme_support('post-thumbnails'); 
+
+ ```
+
+ Quick link for the code above <https://css-tricks.com/snippets/wordpress/get-featured-image-url/>
+ 
